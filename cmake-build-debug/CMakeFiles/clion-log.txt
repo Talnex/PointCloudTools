@@ -1,0 +1,36 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/talnex/CLionProjects/PointCloud
+-- Eigen found (include: /usr/local/include/eigen3, version: 3.3.7)
+-- FLANN found (include: /usr/local/Cellar/flann/1.9.1_7/include, lib: flann;flann_cpp)
+-- FLANN found (include: /usr/local/Cellar/flann/1.9.1_7/include, lib: flann;flann_cpp)
+** WARNING ** io features related to pcap will be disabled
+** WARNING ** io features related to png will be disabled
+** WARNING ** io features related to libusb-1.0 will be disabled
+-- QHULL found (include: /usr/local/include, lib: optimized;/usr/local/lib/libqhull_p.dylib;debug;/usr/local/lib/libqhull_p.dylib)
+-- Found Glew: GLEW;-framework Cocoa
+-- looking for PCL_COMMON
+-- looking for PCL_KDTREE
+-- looking for PCL_OCTREE
+-- looking for PCL_SEARCH
+-- looking for PCL_SAMPLE_CONSENSUS
+-- looking for PCL_FILTERS
+-- looking for PCL_2D
+-- looking for PCL_GEOMETRY
+-- looking for PCL_IO
+-- looking for PCL_FEATURES
+-- looking for PCL_ML
+-- looking for PCL_SEGMENTATION
+-- looking for PCL_VISUALIZATION
+-- looking for PCL_SURFACE
+-- looking for PCL_REGISTRATION
+-- looking for PCL_KEYPOINTS
+-- looking for PCL_TRACKING
+-- looking for PCL_RECOGNITION
+-- looking for PCL_STEREO
+-- looking for PCL_APPS
+-- looking for PCL_OUTOFCORE
+-- looking for PCL_PEOPLE
+-- looking for PCL_SIMULATION
+-- Eigen found (include: /usr/local/include/eigen3, version: 3.3.7)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/talnex/CLionProjects/PointCloud/cmake-build-debug
